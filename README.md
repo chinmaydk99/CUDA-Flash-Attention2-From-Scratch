@@ -1,5 +1,3 @@
-# CUDA-Flash-Attention2-From-Scratch
-
 # Flash Attention CUDA Implementation
 
 ## Overview
